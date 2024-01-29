@@ -9,3 +9,4 @@ Data Analyst at Wonder Pod Sdn Bhd
 - big impacts project 2
 
 ### Projects
+![Project](/1647848695170.jpg)
