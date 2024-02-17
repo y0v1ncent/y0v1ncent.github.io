@@ -10,10 +10,16 @@ Alpine Works Cycles customers performance issues can be seen from the visualizat
 
 ### US Flight Delay Analysis Report
 ![Project](/Assets/Captu1re.PNG)
+The US Flight Delay Analysis Report created using Tableau provides an in-depth examination of flight delays across various airlines and airports in the United States. The report aims to understand the causes of flight delays, identify trends, and propose potential solutions to mitigate delays and improve overall flight performance. The US Flight Delay data is taken from Kaggle data source.
 
 ### Houses Sales Performance Report
+
 ![Project](/Assets/Capture.PNG)
+The Houses Sales Performance Report provides a detailed analysis of the housing market's performance, offering insights into sales trends, pricing dynamics, and market conditions. By examining factors such as sales volume, median sale prices, and inventory levels, the report gives stakeholders a comprehensive overview of the current state of the market. Through segmentation based on property type, location, and other criteria, it delves into nuances within the market, providing a deeper understanding of sales performance across different segments.The House Sales King County, Washington data is taken from Kaggle data source.
 
 ### Prediction of Heart Disease Risk with Machine Learning Approach
+Heart disease prediction using machine learning approach can improve the healthcare sector. The issues that are often found in the work on this project is there are still many hospital staff who are not precise in diagnosing patients with heart disease. With data analysis on the healthcare field that can better understanding and good prediction about the diagnosed of heart disease that can prevent all the problems and issues above to happen again in the future.
 ![Project](/Assets/Picture2.png)
+The implemented heart diease web application that have example for prediction results for the input data from the user which predicts that heart disease is detected. After that there is a message to be patient that contain information of some lifestyle modifications that can be useful for improving heart health and reducing the risk of heart disease. The prediction page will also display the percentage accuracy of the model used in the heart disease prediction web app. As an example according to the picture above, based on input data from the user, the heart disease prediction web app states that heart disease is detected, display the message and the accuracy score of the model used is 87 percent.
 ![Project](/Assets/Picture3.png)
+The The implemented heart disease we application also shows decision tree visualization plot displayed in the heart disease. This page will display pictures and can show the decision tree model plot from the dataset used in this web app. It will visualize the prediciton of the heart disease risk.
