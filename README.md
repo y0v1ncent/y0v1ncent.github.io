@@ -10,13 +10,13 @@ SMAK Yos Sudarso
 Mathematics and Science 
 Grade: 85.6/100
 
-
 ### Work Experience
 Data Analyst at Wonder Pod Sdn Bhd
 •	Diligently tracked and monitored the performance of advertising campaigns, ensuring adherence to key performance indicators (KPIs) and client objectives.
-•	Generated Summarise analyses report for clients (Acson; Ajinomoto; etc), presenting quantifiable data on campaign success, enabling clients to make informed decisions.
+•	Generated Summarise analyses report for clients (Acson; Ajinomoto; etc)
 •	Leveraged industry trends and competitor analysis to formulate strategic recommendations for clients.
 •	Maintained a comprehensive understanding of the latest Google Analytics features, and best practices, ensuring campaigns remained on the cutting edge of digital advertising.
+
 
 
 ### Projects
