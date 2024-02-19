@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Projects
-### Business Intelligent Report on Alpine Works Cycles Company 
+### Business Intelligent Report 
 Business Intelligence approach in Alpine Works Cycles succeeded in finding pattern data and also visualization results that are useful for the company's sales performance and customer performance. Data patterns and useful data visualizations using Power BI can be seen through charts and tables in the created visualization dashboard. 
 ![Project](/Assets/Picture5.png)
 In Sales Performance Dashboard in Regions visualization above, it shown that the order quantity in every country is decreased every year. The sales amount also is decreased every year which can be shown in the line and area chart. In 2013, the order quantity and sales amount movement were very high but when it entered 2014, the order quantity and sales amount was very low. Thus causing a decrease in store performance and sales in various countries
